@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Microsoft is ballz</h1>
+        <h1>Microsoft is stinky hairy ballz</h1>
         <p class="lead">And they deserve a thwacking.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
